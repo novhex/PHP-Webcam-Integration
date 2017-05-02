@@ -4,7 +4,6 @@ Simple image capture via Built-in webcam using PHP (Bluecloud PHP MVC) ,Adobe Fl
 # Requirements
 * PHP >= 5.6
 * Webcam (of course)
-*
 
 # Installation
 
